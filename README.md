@@ -1,4 +1,4 @@
-# Analisis_de_Datos_Resdes_Sociales
+# Analisis de Datos Resdes Sociales
 
 ## El lado oscuro de las redes sociales
 
